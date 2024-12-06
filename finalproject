@@ -7,7 +7,7 @@
 </head>
 <body>
     <header>
-        <h1>Welcome to My Sample Page</h1>
+        <h1>WD4E: Final Project</h1>
     </header>
 
     <main>
@@ -27,7 +27,7 @@
         </section>
     </main>
 
-    <footer>
+    <footer id="validation">
         <p>&copy; 2024 Sample Page</p>
     </footer>
 </body>
