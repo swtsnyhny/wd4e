@@ -3,32 +3,35 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Sample Page</title>
+    <title>Final Project</title>
+    <link rel="stylesheet" type="text/css" href="styles.css">
 </head>
 <body>
-    <header>
-        <h1>WD4E: Final Project</h1>
+    <header id="validation">
+        <h1><strong>WD4E: Final Project</strong></h1>
+        <h2>by Kelsie Dennis</h2>
     </header>
 
     <main>
         <section>
-            <h2>Image Gallery</h2>
-            <p>Here are some pictures I like:</p>
+            <h2>Welcome to my final project!</h2>
+            <p>This webpage was designed for the Coursera course by the University of Michigan called "Web Design for Everybody: Basics of Web Development & Coding". Thanks for visiting!</p>
+        </section>
+        <section>
+            <h2>My Favorite Foods</h2>
+            <p>I wanted to share some of my favorite easy dishes. Click on the images for links to the recipe sites.</p>
             <ul>
-                <li><img src="image1.jpg" alt="Description of image 1"></li>
-                <li><img src="image2.jpg" alt="Description of image 2"></li>
-                <li><img src="image3.jpg" alt="Description of image 3"></li>
+                <li><a href="https://www.walderwellness.com/easy-curry-tofu-scramble-vegan/"><img src="" title= "Curry Tofu Scramble" alt="scrambled seasoned tofu with veggies"></a></li>
+                <li><a href="https://www.feastingathome.com/vegetable-fried-rice/"><img src="" title="Rainbow Vegetable Fried Rice" alt="rice stir fry with a variety of veggies"></a></li>
+                <li><a href="https://www.allrecipes.com/recipe/215016/triple-chocolate-tofu-brownies/"><img src="" title="Silken Tofu Brownies" alt="brownies made with silken tofu instead of eggs"></a></li>
             </ul>
         </section>
 
-        <section>
-            <h2>Useful Links</h2>
-            <p>Visit the <a href="https://www.example.com" target="_blank">Example Website</a> for more info.</p>
-        </section>
     </main>
 
     <footer id="validation">
-        <p>&copy; 2024 Sample Page</p>
+        <div>EDUCATIONAL ONLY, NO COMMERCIAL VALUE.</div><br>
+        <a href="https://validator.w3.org/nu/?doc=">HTML5 Validation</a>
     </footer>
 </body>
 </html>
