@@ -6,3 +6,25 @@
 header {
     text-align: center;
 }
+
+/* Resize images */
+img {
+    width: 300px; /* Adjust the size to your preference */
+    height: auto; /* Maintain aspect ratio */
+    margin: 10px; /* Add some space around the images */
+}
+
+/* Style for the list items */
+ul {
+    list-style-type: none; /* Remove default bullet points */
+}
+
+li {
+    margin-bottom: 20px; /* Add space between list items */
+}
+
+p {
+    font-size: 1.1em; /* Adjust text size */
+    font-family: Arial, sans-serif; /* Adjust the font */
+    line-height: 1.5;
+}
