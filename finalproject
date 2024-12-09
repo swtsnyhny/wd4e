@@ -21,9 +21,9 @@
             <h2>My Favorite Foods</h2>
             <p>I wanted to share some of my favorite easy dishes. Click on the images for links to the recipe sites.</p>
             <ul>
-                <li><a href="https://www.walderwellness.com/easy-curry-tofu-scramble-vegan/"><img src="" title= "Curry Tofu Scramble" alt="scrambled seasoned tofu with veggies"></a></li>
-                <li><a href="https://www.feastingathome.com/vegetable-fried-rice/"><img src="" title="Rainbow Vegetable Fried Rice" alt="rice stir fry with a variety of veggies"></a></li>
-                <li><a href="https://www.allrecipes.com/recipe/215016/triple-chocolate-tofu-brownies/"><img src="" title="Silken Tofu Brownies" alt="brownies made with silken tofu instead of eggs"></a></li>
+                <li><a href="https://www.walderwellness.com/easy-curry-tofu-scramble-vegan/"><img src="pictures/curry.webp" title= "Curry Tofu Scramble" alt="scrambled seasoned tofu with veggies"></a></li>
+                <li><a href="https://www.feastingathome.com/vegetable-fried-rice/"><img src="pictures/rice.webp" title="Rainbow Vegetable Fried Rice" alt="rice stir fry with a variety of veggies"></a></li>
+                <li><a href="https://www.allrecipes.com/recipe/215016/triple-chocolate-tofu-brownies/"><img src="pictures/brownies.jpg" title="Silken Tofu Brownies" alt="brownies made with silken tofu instead of eggs"></a></li>
             </ul>
         </section>
 
