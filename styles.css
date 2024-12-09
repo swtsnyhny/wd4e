@@ -7,11 +7,11 @@ header {
     text-align: center;
 }
 
-/* Resize images */
+/* Resize images responsively */
 img {
-    width: 300px; /* Adjust the size to your preference */
-    height: auto; /* Maintain aspect ratio */
-    margin: 10px; /* Add some space around the images */
+    max-width: 100%; /* Ensures the image doesn't overflow the container */
+    height: auto;    /* Maintains the aspect ratio */
+    margin: 10px;    /* Add space around the images */
 }
 
 /* Style for the list items */
@@ -23,8 +23,16 @@ li {
     margin-bottom: 20px; /* Add space between list items */
 }
 
+/* Optional: Center align the images within their container */
+li a {
+    display: block;
+    text-align: center;
+}
+
+/* Optional: Style for the paragraphs containing text */
 p {
     font-size: 1.1em; /* Adjust text size */
     font-family: Arial, sans-serif; /* Adjust the font */
     line-height: 1.5;
 }
+
